@@ -1,0 +1,22 @@
+{
+    "name": "microbit-oled-128x64-images",
+    "description": "OLED SSD1306 128x64px images",
+    "dependencies": {
+        "core": "*",
+        "oled": "github:pythom1234/pxt-oled#v2.3.6"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.1.56",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
